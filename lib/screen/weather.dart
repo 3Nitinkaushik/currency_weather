@@ -10,6 +10,6 @@ class Weatherscreen extends StatefulWidget {
 class _WeatherscreenState extends State<Weatherscreen> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Container(color: Colors.black,);
   }
 }
